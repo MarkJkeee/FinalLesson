@@ -24,3 +24,4 @@ git commit -m "комментарий"
 ```sh
 del <filename>
 ```
+

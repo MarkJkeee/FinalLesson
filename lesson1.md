@@ -25,3 +25,13 @@ git commit -m "комментарий"
 del <filename>
 ```
 
+
+Короткое отображение
+```sh
+git log --oneline
+```
+
+Основное сохранение
+```sh
+git checkout master
+```

@@ -44,9 +44,9 @@ git diff
 Показать мастер ветку
 ```sh
 git branch
-``
+```
 
 Добавить новую ветку
 ```sh
-git branch 
-``
+git branch text
+```

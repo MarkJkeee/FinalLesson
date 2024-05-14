@@ -35,3 +35,8 @@ git log --oneline
 ```sh
 git checkout master
 ```
+
+Добавили текст в файл (показать изменения)
+```sh
+git diff
+```

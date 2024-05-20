@@ -6,4 +6,5 @@ git brach branch_name - создает новую ветку
 git merge branch_name - слияние 2 веток
 ## Conflicts
 конфликты возникают когда затрагивается общее рабочее пространство
+hello 
 hello world

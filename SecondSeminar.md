@@ -9,3 +9,4 @@ git merge branch_name - слияние 2 веток
 ## Deleting branches
 git branch -d branch_name
 git branch -D branch_name
+hello world

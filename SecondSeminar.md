@@ -1,13 +1,37 @@
-# Second Seminar
+
+# Второй семинар
 20.05.2024S
-## Creating branch
+
+## Создание веток
 git brach branch_name - создает новую ветку
-## Merging branch
+
+## Слияние веток
 git merge branch_name - слияние 2 веток
-## Conflicts
+
+## Конфликты
 конфликты возникают когда затрагивается общее рабочее пространство!
-## Deleting branches
+## Удаление веток
 git branch -d branch_name
 git branch -D branch_name
-1
-hello world 
+
+## Создание репозитория в существующем каталоге
+cd C:/Users/Марк/Desktop/Lesson1/
+
+и затем: git init
+
+## Добавление версионного контроля
+
+git add .
+git commit -m "комментарий"
+
+## Определение состояния файлов
+git status
+
+## Отслеживание изменений
+git diff
+
+## Отслеживание лога изменеий
+git log --oneline
+
+## Работа с удаленным репозиториями
+git remote - просмотр удаленных репозиториев

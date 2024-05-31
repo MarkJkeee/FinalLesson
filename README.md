@@ -35,3 +35,7 @@ git log --oneline
 
 ## Работа с удаленным репозиториями
 git remote - просмотр удаленных репозиториев
+## Добавить файл в репозиторий
+git remote add origin https://github.com/MarkJkeee/FinalLesson.git
+git push -u origin main
+

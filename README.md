@@ -39,3 +39,5 @@ git remote - просмотр удаленных репозиториев
 git remote add origin https://github.com/MarkJkeee/FinalLesson.git
 git push -u origin main
 
+## Запрос изменений с сервера
+git pull origin master
